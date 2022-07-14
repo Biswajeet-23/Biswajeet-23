@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ktor Server**
 
-- 📝 I read articles from [https://medium.com](https://medium.com)
+- 📝 I read articles from [medium](https://medium.com)
 
 - 💬 Ask me about **Android Development, Chess**
 
