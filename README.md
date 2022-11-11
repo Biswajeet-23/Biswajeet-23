@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Biswajeet Sahoo</h1>
 <h3 align="center">A Mobile App Developer Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajeet-23&label=Profile%20views&color=0e75b6&style=flat" alt="biswajeet-23" /> </p>
+
 
 - 🔭 I’m currently working on **Geolocation project**
 
