@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Geolocation project**
+- 🔭 I’m currently working on **Machine Learning Model**
 
-- 🌱 I’m currently learning **Ktor Server**
+- 🌱 I’m currently learning **Ktor Framework**
 
 - 📝 I read articles from [medium](https://medium.com)
 
