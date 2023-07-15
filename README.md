@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning Model**
+- 🔭 I’m currently working on **Modern UI/UX**
 
-- 🌱 I’m currently learning **Ktor Framework**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📝 I read articles from [medium](https://medium.com)
 
