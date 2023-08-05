@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Modern UI/UX**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I read articles from [medium](https://medium.com)
 
