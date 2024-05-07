@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Modern UI/UX**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📝 I read articles from [medium](https://medium.com)
 
-- 💬 Ask me about **Android Development, Chess**
+- 💬 Ask me about **Mobile App Development, Frontend Development, Chess**
 
-- 📫 How to reach me **2000biswajeet@gmail.com**
+- 📫 How to reach me **biswajeet.sahoo0023@gmail.com**
 
 - ⚡ Fun fact **The first computer 'bug' was an actual real-life bug.**
 
