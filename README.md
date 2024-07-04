@@ -1,16 +1,16 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Biswajeet Sahoo</h1>
-<h3 align="center">App Developer</h3>
+<h3 align="center">MERN Stack | App Developer</h3>
 
 
 
 - 🔭 I’m currently working on **Modern UI/UX**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 📝 I read articles from [medium](https://medium.com)
 
-- 💬 Ask me about **Mobile App Development, Frontend Development, Chess**
+- 💬 Ask me about **Full Stack Development, Mobile App Development, Chess**
 
 - 📫 How to reach me **biswajeet.sahoo0023@gmail.com**
 
