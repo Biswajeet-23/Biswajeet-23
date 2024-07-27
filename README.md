@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Modern UI/UX**
+- 🔭 I’m currently working on **MERN Stack Projects**
 
 - 🌱 I’m currently learning **NextJs**
 
