@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **interactive 3D web applications using React Three Fiber and Three.js**
 
 - 🌱 I’m currently learning **NextJs**
 
