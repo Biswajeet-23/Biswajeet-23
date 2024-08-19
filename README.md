@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/Biswajeet-23/readme-cover/blob/main/readme-bg-cover.png)
 <h1 align="center">Hi 👋, I'm Biswajeet Sahoo</h1>
 <h3 align="center">MERN Stack | App Developer</h3>
 
