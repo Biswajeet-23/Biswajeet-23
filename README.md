@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **interactive 3D web applications using React Three Fiber and Three.js**
+- 🔭 I’m currently **Building scalable full stack & AI-powered applications**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Cloud and Automation**
 
 - 📝 I read articles from [medium](https://medium.com)
 
