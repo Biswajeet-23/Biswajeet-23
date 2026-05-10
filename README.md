@@ -184,15 +184,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajeet-23&show_icons=true&locale=en&layout=compact" 
-    alt="biswajeet-23"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biswajeet-23&layout=compact&theme=tokyonight"
+    alt="top langs"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=biswajeet-23&show_icons=true&locale=en" 
-    alt="biswajeet-23"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=biswajeet-23&show_icons=true&theme=tokyonight"
+    alt="github stats"
   />
 </p>
 
